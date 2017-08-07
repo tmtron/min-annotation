@@ -1,4 +1,4 @@
-rootProject.name = 'parent'
+rootProject.name = 'min-annotation'
 include 'min-annotation-lib'
 include 'min-annotation-processor'
 
