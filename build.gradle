@@ -9,8 +9,8 @@ dependencies {
 }
 
 subprojects {
-    group 'com.tmtron.min-annotation'
-    version '1.0-SNAPSHOT'
+    group "$rootProject.group"
+    version "$rootProject.version"
 
     apply plugin: 'java'
 
